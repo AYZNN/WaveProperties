@@ -1,13 +1,13 @@
 
 **Description**
-WaveProperties is an amazing ESX & QBUS ready resource, allowing you to create properties including garages.With WaveProperties your players can manage anything imaginable.❤️ ( see video )
-Every features is configurable and can be adapted to all your tastes! 
+> WaveProperties is an amazing ESX & QBUS ready resource, allowing you to create properties including garages.With WaveProperties your players can manage anything imaginable.❤️ ( see video )
+> Every features is configurable and can be adapted to all your tastes! 
 
 **Showcase**
-Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
+> Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
 
 **Tebex**
-[WaveResources | Home (tebex.io)](https://waveresources.tebex.io/) - 50€ + taxes
+> [WaveResources | Home (tebex.io)](https://waveresources.tebex.io/) - 50€ + taxes
 
 **Features**
 * resmon : 0.0ms Closed, 0.3ms opened
