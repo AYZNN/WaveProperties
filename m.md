@@ -1,3 +1,4 @@
+![miniature](https://user-images.githubusercontent.com/67419505/147802874-73ac3d84-fa5f-4e83-ade0-04754049aa95.png)
 
 **Description**
 > WaveProperties is an amazing ESX & QBUS ready resource, allowing you to create properties including garages.With WaveProperties your players can manage anything imaginable.❤️ ( see video )
