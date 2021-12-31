@@ -10,6 +10,7 @@ Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
 [WaveResources | Home (tebex.io)](https://waveresources.tebex.io/) - 50€ + taxes
 
 **Features**
+* resmon : 0.0ms Closed, 0.3ms opened
 * Use job or Whitelisted identifiers ( to create,edit, or delete properties )
 * Property Creator
   * Set up Name,Price, Max  number of players that can OWN the property
@@ -21,6 +22,7 @@ Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
   * GTA:O style, using scaleforms to display stats & upgrades
   * Upgrades are saved
   * Configure if they keep damages or not
+  * Enable or not vehicle trackers
 * Keys System
   * Give and Delete Keys that you gave
   * Manage tenants accesses ( Garage,Storage,Garage)
@@ -37,3 +39,4 @@ Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
 * built-in RageUI edited
 * Multiples Languages supported
 * ESX & QBUS Ready
+* And more...
