@@ -9,6 +9,7 @@
 
 ** Discord **
 > https://discord.gg/5x2kXXkZTR
+
 **Tebex**
 > [WaveResources | Home (tebex.io)](https://waveresources.tebex.io/) - 50€ + taxes
 
