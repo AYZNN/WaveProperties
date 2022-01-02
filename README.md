@@ -7,7 +7,7 @@
 **Showcase**
 > Watch the [Showcase](https://www.youtube.com/watch?v=B_MvXP3gz9w) !
 
-** Discord **
+**Discord**
 > https://discord.gg/5x2kXXkZTR
 
 **Tebex**
